@@ -2,11 +2,11 @@
     "name": "nox-theme",
     "displayName": "Nox Theme",
     "description": "A collection of Dark Mode Themes with different syntax highlighting schemes for VS Code",
-    "version": "1.0.1",
-    "publisher": "DrDikPiks",
+    "version": "1.0.0",
+    "publisher": "AgamjotSB",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DrDikPiks/Nox"
+        "url": "https://github.com/AgamjotSB/Nox"
     },
     "keywords": [
         "theme",
@@ -20,7 +20,10 @@
         "nocturnal",
         "italic",
         "bold",
-        "amoled"
+        "amoled",
+        "Nox Theme",
+        "charcool",
+        "AgamjotSB"
     ],
     "categories": [
         "Themes",
