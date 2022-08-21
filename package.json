@@ -17,10 +17,14 @@
         "semantic",
         "drdikpiks",
         "midnight",
-        "nocturnal"
+        "nocturnal",
+        "italic",
+        "bold",
+        "amoled"
     ],
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
     "engines": {
         "vscode": "^1.70.0"
