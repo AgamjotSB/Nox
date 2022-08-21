@@ -1,0 +1,54 @@
+{
+  "name": "nox-theme",
+  "displayName": "Nox Theme",
+  "description": "A collection of Dark Mode Themes with different syntax highlighting schemes for VS Code",
+  "version": "1.0.0",
+  "publisher": "DrDikPiks",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nox Charcool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/charcool.json"
+      },
+      {
+        "label": "Nox Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight.json"
+      },
+      {
+        "label": "Nox Nocturnal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nocturnal.json"
+      },
+      {
+        "label": "Nox Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nox-default.json"
+      },
+      {
+        "label": "Nox Charcool (amoled)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/charcool-amoled.json"
+      },
+      {
+        "label": "Nox Midnight (amoled)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-amoled.json"
+      },
+      {
+        "label": "Nox Nocturnal (amoled)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nocturnal-amoled.json"
+      },
+      {
+        "label": "Nox Default (amoled)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nox-default-amoled.json"
+      }
+    ]
+  }
+}
