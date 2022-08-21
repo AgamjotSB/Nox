@@ -2,7 +2,6 @@
 
 ### **Nox** is a collection of dark mode themes with different syntax highlighting schemes.
 
-<br>
 
 ### The theme is designed to:
 
@@ -15,8 +14,6 @@
 
 * **Nox** can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ + X on Mac and then searching for "**Nox**".
 * When installation completes, select Darcula as your color theme (Preferences → Workbench: Color Theme → **Nox Theme**)
-
-<hr>
 
 ## Credits
 
