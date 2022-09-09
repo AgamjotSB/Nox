@@ -10,22 +10,23 @@
     },
     "keywords": [
         "theme",
+        "dark",
+        "darker",
+        "nox",
         "dark theme",
         "dark mode",
-        "nox",
         "nox theme",
         "semantic",
         "drdikpiks",
         "midnight",
         "nocturnal",
+        "noctis",
         "italic",
         "bold",
         "amoled",
         "Nox Theme",
         "charcool",
         "charcoal",
-        "dark",
-        "darker",
         "AgamjotSB"
     ],
     "categories": [
@@ -48,9 +49,9 @@
                 "path": "./themes/midnight.json"
             },
             {
-                "label": "Nox Nocturnal",
+                "label": "Nox Noctis",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nocturnal.json"
+                "path": "./themes/Noctis.json"
             },
             {
                 "label": "Nox Default",
@@ -68,9 +69,9 @@
                 "path": "./themes/midnight-amoled.json"
             },
             {
-                "label": "Nox Nocturnal (amoled)",
+                "label": "Nox Noctis (amoled)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nocturnal-amoled.json"
+                "path": "./themes/Noctis-amoled.json"
             },
             {
                 "label": "Nox Default (amoled)",

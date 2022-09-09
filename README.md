@@ -10,6 +10,39 @@
 
 **Nox** comes in 8 versions, 4 are dark and 4 are amoled
 
+<div align="center">
+
+___
+### The font used in screenshots is called [Cascadia Code](https://github.com/microsoft/cascadia-code)
+___
+
+### **Nox** Charcool
+![Nox Charcool Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/charcool.png "Nox Charcool")
+___
+### **Nox** Charcool _(amoled)_
+![Nox Charcool (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/charcool-amoled.png "Nox Charcool (amoled)")
+___
+### **Nox** Midnight
+![Nox Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/midnight.png "Nox")
+___
+### **Nox** Midnight _(amoled)_
+![Nox (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/midnight-amoled.png "Nox (amoled)")
+___
+### **Nox** Noctis
+![Nox Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/noctis.png "Nox")
+___
+### **Nox** Noctis _(amoled)_
+![Nox (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/noctis-amoled.png "Nox (amoled)")
+___
+### **Nox** Default
+![Nox Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/default.png "Nox")
+___
+### **Nox** Default _(amoled)_
+![Nox (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/default-amoled.png "Nox (amoled)")
+___
+
+</div>
+
 ## Installation
 
 * **Nox** can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ + X on Mac and then searching for "**Nox**".
