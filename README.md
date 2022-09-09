@@ -23,22 +23,22 @@ ___
 ![Nox Charcool (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/charcool-amoled.png "Nox Charcool (amoled)")
 ___
 ### **Nox** Midnight
-![Nox Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/midnight.png "Nox Midnight")
+![Nox Midnight Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/midnight.png "Nox Midnight")
 ___
 ### **Nox** Midnight _(amoled)_
-![Nox (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/midnight-amoled.png "Nox Midnight (amoled)")
+![Nox Midnight (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/midnight-amoled.png "Nox Midnight (amoled)")
 ___
 ### **Nox** Noctis
-![Nox Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/noctis.png "Nox Noctis")
+![Nox Noctis Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/noctis.png "Nox Noctis")
 ___
 ### **Nox** Noctis _(amoled)_
-![Nox (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/noctis-amoled.png "Nox Noctis (amoled)")
+![Nox Noctis (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/noctis-amoled.png "Nox Noctis (amoled)")
 ___
 ### **Nox** Default
-![Nox Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/default.png "Nox Default")
+![Nox Default Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/default.png "Nox Default")
 ___
 ### **Nox** Default _(amoled)_
-![Nox (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/default-amoled.png "Nox Default (amoled)")
+![Nox Default (amoled) Screenshot](https://github.com/AgamjotSB/Nox/raw/main/images/default-amoled.png "Nox Default (amoled)")
 ___
 
 </div>
