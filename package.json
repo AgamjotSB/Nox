@@ -2,7 +2,7 @@
     "name": "nox-theme",
     "displayName": "Nox Theme",
     "description": "A collection of Dark Mode Themes with different syntax highlighting schemes for VS Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Agamjot-Singh",
     "repository": {
         "type": "git",
