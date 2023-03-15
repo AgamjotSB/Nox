@@ -52,7 +52,7 @@
             {
                 "label": "Nox Noctis",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Noctis.json"
+                "path": "./themes/noctis.json"
             },
             {
                 "label": "Nox Default",
@@ -72,7 +72,7 @@
             {
                 "label": "Nox Noctis (amoled)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Noctis-amoled.json"
+                "path": "./themes/noctis-amoled.json"
             },
             {
                 "label": "Nox Default (amoled)",
